@@ -156,7 +156,7 @@ footer p a {
     height: 50%;
 }
 
-/* Media Query fir Tablet Viewport */
+/* Media Query for Tablet Viewport */
 @media screen and (min-width: 630px), print {
 
     /* Tablet Viewport: Show tabler-desktop class, hide mobile class */
